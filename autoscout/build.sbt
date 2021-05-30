@@ -1,3 +1,4 @@
+
 name := """autoscout"""
 organization := "com.autoscout"
 
